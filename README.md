@@ -5,7 +5,7 @@ The least three significant bits are XORed and fedback to be the MSB while the r
 This can be used as a random number generator.
 
 Simulation is done using Xilinx Vivado.
-
+Implementation done on the Basys 3 Board.
 **Schematic**: 
 
 ![alt text](https://github.com/Akshay-Kaushik/16-bit-LFSR/blob/31a5f9e12bbd54d8b432b38a45c158efa6d05018/imgs/schematic.png)
